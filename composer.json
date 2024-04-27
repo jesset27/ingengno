@@ -1,0 +1,17 @@
+{
+    "name": "jesse/ingengno",
+    "description": "Sistema de chamados",
+    "autoload": {
+        "psr-4": {
+            "Jesse\\Ingengno\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jessé Willian"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
